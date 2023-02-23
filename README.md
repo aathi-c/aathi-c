@@ -2,10 +2,8 @@
 
 Pronouns: He / Him
 
-I write code and design things! I am .. and study Systems Design Engineering at the University of Waterloo!
+19 year old sophmore keen on applying my passion and skill set for design and development towards making a positive impact on my community and beyond.. You can find me writing code, squashing bugs or in class studying Systems Design Engineering @ the University of Waterloo.
 
-
-📫 Here's how you can reach me!
-LinkedIn: https://www.linkedin.com/in/aathi
-
-Email: a69chand@uwaterloo.ca
+📫 Here's how you can reach me!  
+LinkedIn: https://www.linkedin.com/in/aathi  
+Email: a69chand@uwaterloo.ca  
